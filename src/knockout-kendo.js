@@ -91,6 +91,8 @@
 
 //import "knockout-kendoSortable.js"
 
+//import "knockout-kendoDraggable.js"
+
 //import "knockout-kendoSplitter.js"
 
 //import "knockout-kendoTabStrip.js"
